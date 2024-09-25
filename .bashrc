@@ -1,0 +1,1 @@
+/home/josec07/linux-config/.bashrc
